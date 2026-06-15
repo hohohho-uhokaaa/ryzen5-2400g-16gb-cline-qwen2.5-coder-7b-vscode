@@ -80,7 +80,6 @@ Clineの下部にある Auto-approve（自動承認） のチェックボック�
 6. 謝辞
 本ドキュメントをまとめるにあたって、暇で貧乏な無課金オジサンのためにいやな顔ひとつせず、いい加減でアプグレせーやは見せつけてくるものの、おぢさんギャグで長時間にわたってダル絡みしてくるパラパラ質問のウザオジに拒否ることなくつきあい続けてくれた google gemini には全面的に深く感謝の意を表します。
 
-[p align="center"]
 <p align="center"><img src="cline_finished_pic.png" alt="cline_finished" /></p>
 
 
